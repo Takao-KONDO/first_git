@@ -1,1 +1,1 @@
-FX‘‚«Š·‚¦‚é ‘‚«Š·‚¦‚½
+This is first test repository of me.
