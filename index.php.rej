@@ -1,0 +1,8 @@
+diff a/index.php b/index.php	(rejected hunks)
+@@ -0,5 +0,6 @@
+     <title></title>
+   </head>
+   <body>
++
+   </body>
+ </html>
