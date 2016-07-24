@@ -8,5 +8,8 @@
     <title></title>
   </head>
   <body>
+	  <p>
+	  	これは Git で管理されているファイルです。
+	  </p>
   </body>
 </html>
