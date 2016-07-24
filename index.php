@@ -8,5 +8,9 @@
     <title></title>
   </head>
   <body>
+	  <h1>こちらがメインのブランチ</h1>
+	  <p>
+	  	これは Git で管理されているファイルです。
+	  </p>
   </body>
 </html>
